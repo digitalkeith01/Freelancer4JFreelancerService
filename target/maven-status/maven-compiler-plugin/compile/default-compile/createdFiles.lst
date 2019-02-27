@@ -1,0 +1,6 @@
+io\openshift\booster\service\Greeting.class
+io\openshift\booster\service\FreelancerRepository.class
+io\openshift\booster\service\FreelancerJPAResource.class
+io\openshift\booster\BoosterApplication.class
+io\openshift\booster\service\Freelancer.class
+io\openshift\booster\service\GreetingEndpoint.class
